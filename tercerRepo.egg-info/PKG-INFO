@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: tercerRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/JeniCanoZ/tercerRepo
+Author: Jeni Cano Z
+Author-email: jennifer.cano@segurosbolivar.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
